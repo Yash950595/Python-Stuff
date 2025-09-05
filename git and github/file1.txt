@@ -1,3 +1,0 @@
-This is file 1
-Adding a new content to this file
-learning diff and stash
