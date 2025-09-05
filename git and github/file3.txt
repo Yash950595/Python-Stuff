@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is file 3.
+=======
+hi hello there. 
+>>>>>>> bug-fix
