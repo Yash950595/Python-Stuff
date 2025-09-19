@@ -3,6 +3,9 @@ import os
 from selenium.webdriver.common.by import By
 
 URL="https://appbrewery.github.io/gym/"
+email="yashpatil0710@gmail.com"
+password="yash_007"
+
 chrome=webdriver.ChromeOptions()
 chrome.add_experimental_option("detach",True)
 
