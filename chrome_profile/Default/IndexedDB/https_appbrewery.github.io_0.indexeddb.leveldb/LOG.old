@@ -1,2 +1,3 @@
-2025/09/19-19:57:28.895 4f70 Creating DB C:\Users\DELL\Desktop\Angela_Yu\chrome_profile\Default\IndexedDB\https_appbrewery.github.io_0.indexeddb.leveldb since it was missing.
-2025/09/19-19:57:28.909 4f70 Reusing MANIFEST C:\Users\DELL\Desktop\Angela_Yu\chrome_profile\Default\IndexedDB\https_appbrewery.github.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/19-22:28:26.620 5a64 Reusing MANIFEST C:\Users\DELL\Desktop\Angela_Yu\chrome_profile\Default\IndexedDB\https_appbrewery.github.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/19-22:28:26.621 5a64 Recovering log #3
+2025/09/19-22:28:26.722 5a64 Reusing old log C:\Users\DELL\Desktop\Angela_Yu\chrome_profile\Default\IndexedDB\https_appbrewery.github.io_0.indexeddb.leveldb/000003.log 

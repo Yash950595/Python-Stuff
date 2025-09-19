@@ -1,2 +1,3 @@
-2025/09/19-19:57:24.679 4f88 Creating DB C:\Users\DELL\Desktop\Angela_Yu\chrome_profile\Default\Sync Data\LevelDB since it was missing.
-2025/09/19-19:57:24.694 4f88 Reusing MANIFEST C:\Users\DELL\Desktop\Angela_Yu\chrome_profile\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/09/19-22:28:24.189 5f70 Reusing MANIFEST C:\Users\DELL\Desktop\Angela_Yu\chrome_profile\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/09/19-22:28:24.190 5f70 Recovering log #3
+2025/09/19-22:28:24.191 5f70 Reusing old log C:\Users\DELL\Desktop\Angela_Yu\chrome_profile\Default\Sync Data\LevelDB/000003.log 
