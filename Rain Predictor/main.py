@@ -43,6 +43,6 @@ with smtplib.SMTP("smtp.gmail.com",587) as connection: #587 is the only port sup
 
     connection.login(user=my_email,password=security)
     connection.sendmail(from_addr=my_email,
-                        to_addrs="yom141841@gmail.com",
+                        to_addrs="yashpatil0710@gmail.com",
                         msg=f"Subject: Rain Predictor \n\n {rain_data_fetcher()}")
     
